@@ -1,0 +1,6 @@
+title: Company Research Blog
+description: A place to share our internal experiments and early-stage research.
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minima
